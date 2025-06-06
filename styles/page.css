@@ -6,7 +6,7 @@
         img{
             border-radius: 2.8rem;
             margin-bottom: 2.4rem;
-            height: 66rem;
+            height: auto;
         }
 
         p{
@@ -29,7 +29,7 @@
     .destino_2,
     .destino_3 {
         img{
-            height: 33rem;
+            height: auto;
             object-fit: cover;
             margin-bottom: 2rem;
             border-radius: 2.8rem;
